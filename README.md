@@ -68,6 +68,18 @@ retro-mp3-player/
 - **Layout**: all dimensions are in `rem`/`px` — adjust the `.player` max-width
 - **Language pairs**: the player supports any language pair (not just Chinese/English) — just replace `cp`/`ep` labels in the HTML
 
+## How to create your own
+
+This project is a **template** — replace the audio and data with your own content:
+
+1. Clone the repo
+2. Put your MP3 files in `audio/`
+3. Get word-level timestamps via ElevenLabs Scribe
+4. Fill `app/data.js` with your transcripts and timestamps
+5. Serve locally or deploy
+
+👉 Full step-by-step guide: **[docs/workflow.md](docs/workflow.md)**
+
 ## License
 
 MIT
