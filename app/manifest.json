@@ -1,0 +1,16 @@
+{
+  "name": "Harvey Jackins Player",
+  "short_name": "Harvey Player",
+  "description": "哈威－杰肯斯音频文稿播放器 · 逐词高亮",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#1a1428",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%237a4aaa'/%3E%3Ctext x='50' y='62' text-anchor='middle' font-size='40' fill='white' font-family='sans-serif'%3E♪%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
